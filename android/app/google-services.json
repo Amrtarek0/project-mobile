@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117325103695",
+    "project_id": "chat-28caf",
+    "storage_bucket": "chat-28caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117325103695:android:53ff2a98d0c41e1bce203a",
+        "android_client_info": {
+          "package_name": "com.example.mtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mdzDg5ogqelqyaSYpf75MN0Kh_AIIp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
